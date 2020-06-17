@@ -1,2 +1,3 @@
-# wk2MattPearceHw
-Submission for week 2 bootcamp homework
+wk2MattPearceHW
+
+Submission of my week 2 homework assignment: a responsive site designed using bootstrap

@@ -1,0 +1,69 @@
+@media screen and (max-width: 640px) {
+    /*width of nav bar to be 100%*/
+        .navbar-brand {
+            width: 100%;
+            text-align: center;
+            margin-right: 0px !important;
+        }
+
+    .navbar-nav {
+        margin: 0 auto !important;
+    }
+
+    .navbar{
+        padding: 0 !important;
+    }
+}
+@media screen and (min-width: 641px) {
+
+    .container {
+        margin-top: 50px;
+    }
+}
+.nav-link {
+    margin: 0 5px !important;
+}
+
+.message {
+    height: 300px;
+}
+
+.navbar {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    padding-left: 0px !important;
+}
+
+.navbar-brand {
+    padding: 18px 16px;
+    background-color: peru;
+}
+
+.navbar-nav {
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
+
+.container {
+    background-color: #ffffff;
+    margin-bottom: 100px
+}
+
+body {
+    background-color: #dbdbdb;
+}
+
+.heading {
+    padding-top: 50px;
+}
+
+footer {
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+    background-color: #999999;
+    border-top: 5px peru;
+    position: fixed;
+    bottom: 0;
+
+}
