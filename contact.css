@@ -62,8 +62,7 @@ footer {
     padding: 10px 0;
     text-align: center;
     background-color: #999999;
-    border-top: 5px peru;
+    border-top: 8px solid peru;
     position: fixed;
     bottom: 0;
-
 }
